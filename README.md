@@ -1,79 +1,15 @@
-# Lucas Saraiva Lopes
+# Lucas Lopes
 
-🚀 Desenvolvedor Full Stack com mais de 10 anos de experiência em desenvolvimento de software, criação de APIs escaláveis, sistemas web e integrações complexas.
+Sou desenvolvedor de software com mais de **10 anos de experiência criando sistemas, aplicativos e soluções digitais para empresas**.
 
-Tenho forte experiência em **backend**, arquitetura de sistemas e integrações, mas também desenvolvo **interfaces modernas e aplicações completas** para web e mobile.
+Ao longo da minha carreira trabalhei em diversos tipos de projetos, ajudando empresas a **automatizar processos, criar plataformas online e desenvolver ferramentas que facilitam o dia a dia dos negócios**.
 
-Atualmente estou **disponível para projetos freelance, consultorias e novas oportunidades de trabalho**.
+Já participei do desenvolvimento de sistemas de gestão para empresas, plataformas de atendimento, integrações entre sistemas financeiros e aplicações utilizadas por equipes e clientes no dia a dia. Também tenho experiência criando aplicativos e soluções personalizadas para empresas que precisam transformar ideias em produtos digitais.
 
----
+Hoje estou **disponível para projetos freelance, consultorias e novas oportunidades de trabalho remoto**.
 
-## 💻 Principais Tecnologias
+Se você precisa de alguém para ajudar a desenvolver um sistema, aplicativo ou melhorar uma plataforma que sua empresa já utiliza, posso ajudar.
 
-### Backend
-- Node.js
-- TypeScript
-- Java (Spring Boot)
-- APIs REST
-- Microservices
-- Clean Architecture
-- Domain Driven Design (DDD)
-
-### Frontend
-- React
-- Angular
-- Vue.js
-- Tailwind CSS
-- Bootstrap
-- HTML / CSS / JavaScript
-
-### Mobile
-- React Native (Android e iOS)
-
-### Banco de Dados
-- MySQL
-- MongoDB
-- MSSQL
-
-### DevOps e Infraestrutura
-- Docker
-- NGINX
-- VPS
-- Cloudflare
-- CI/CD (GitHub Actions)
-- Load Balancer
-
----
-
-## 🔗 Experiência com Integrações
-
-- Sistemas de pagamento (Stripe, Razorpay)
-- Integração com QuickBooks
-- APIs de terceiros
-- Bots e Chatbots (WhatsApp e Telegram)
-- Sistemas financeiros e de cobrança
-- Blockchain (Solidity, ERC-20, ERC-721, ERC-1155)
-
----
-
-## 🧠 Tipos de Projetos que Posso Ajudar
-
-✔ Desenvolvimento de APIs  
-✔ Criação de sistemas web completos  
-✔ Integrações entre sistemas e plataformas  
-✔ Automação de processos  
-✔ Desenvolvimento de aplicativos mobile  
-✔ Arquitetura e estruturação de projetos  
-✔ Consultoria técnica para startups  
-
----
-
-## 📞 Contato
+## Contato
 
 Telefone / WhatsApp: **+55 11 99764-9421**
-
----
-
-💼 Estou aberto para **projetos freelance, consultorias técnicas e oportunidades remotas**.
-
-Se você precisa de um desenvolvedor experiente para transformar sua ideia em um produto real, entre em contato.
